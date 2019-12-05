@@ -8,13 +8,13 @@ permalink: /people/
 
 ### APC, Paris, France
 
-- Eric Aubourg (P.I.) - _researcher_
-- Cécile Roucelle - _associate professor_
 - Bastien Arcelin - _grad student_
-- Ken Ganga - _researcher_
+- Eric Aubourg (**P.I.**) - _researcher_
 - Alexandre Boucaud - _engineer_
+- Ken Ganga - _researcher_
+- Maude Le Jeune - _engineer_
+- Cécile Roucelle - _associate professor_
 - Françoise Virieux - _engineer_
-- Maud Lejeune - _engineer_
 
 ---
 
@@ -26,14 +26,15 @@ permalink: /people/
 
 ### CEA, Saclay, France
 
-- Martin Kilbinger - _researcher_
 - Sam Farens - _researcher_
+- Martin Kilbinger - _researcher_
 
 ---
 
 ### Loria, Nancy, France
 
-- Amedeo Napoli - _researcher_
-- Chedy Raïssi - _researcher (currently detached to Ubisoft Singapor)_
-- Frédéric Pennerath - _associate professor_ 
 - Brieuc Conan-Guez - _associate professor_
+- Amedeo Napoli - _researcher_
+- Frédéric Pennerath - _associate professor_ 
+- Chedy Raïssi - _researcher (currently detached to Ubisoft Singapor)_
+- Thomas Theobald - _grad student_
