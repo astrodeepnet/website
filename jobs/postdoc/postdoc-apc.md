@@ -7,7 +7,7 @@ subtitle: Postdoctoral position in probabilistic deep neural networks for weak l
 
 - _start date_: October 1st, 2020
 - _duration_: 24 months
-- _deadline for applications_: **January 31st, 2020**
+- _deadline for applications_: **February 20th, 2020**
 - _contact_: [jobs@astrodeep.net](mailto:jobs@astrodeep.net?subject=Postdoctoral position at APC)
 
 ### Description
