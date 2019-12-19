@@ -8,7 +8,7 @@ subtitle: Probing dark energy with multi-survey joint analyses, shear measuremen
 - 3-month internship possibly followed by a 3-year PhD thesis.
 - _start_: Summer 2020
 - _deadline_: February 2020
-- _contact_: [Cécile Roucelle](mailto:cecile.roucelle@apc.in2p3.fr)
+- _contact_: [Cécile Roucelle](mailto:roucelle@apc.in2p3.fr)
 
 During the last decade, cosmology has entered a precision era, leading to the prevalence of the standard cosmological model, ΛCDM. Nevertheless, the main ingredient of this model, dark energy, while dominating the energy budget of the Universe, remains mysterious and its comprehension is the current Graal of the domain. The next generation of cosmological surveys, among which Large Synoptic Survey Telescope (LSST) & Euclid, both starting in 2022, are a major step toward in observational cosmology toward the parametrization of dark energy. We would like to offer to a PhD student the possibility to contribute to the development of state-of-the-art cosmological analyses within the APC LSST group in the framework of both the LSST Dark Energy Science Collaboration (DESC) and the ___AstroDeep___ ANR project.
 
