@@ -2,7 +2,7 @@
 layout: page
 title: Thesis at LORIA
 permalink: jobs/thesis-loria/
-subtitle: Already filled in.
+subtitle: Thesis position on probabilistic representation learning
 ---
 
 ### Started in November 2019 by Thomas Theobald.

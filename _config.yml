@@ -30,14 +30,14 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 navigation:
   - title: Projects
     url: /projects/
-    desc: Stuffs I like to do
+    desc: Current projects
   - title: People
     url: /people/
     desc: The AstroDeep team
   # - title: Articles
     # url: /articles/
     # desc: Publications from AstroDeep members
-  - title: Job offers
+  - title: Jobs
     url: /jobs/
     desc: Job offers from student internship to postdocs and engineers
   - title: Contact
