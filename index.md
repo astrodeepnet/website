@@ -5,9 +5,11 @@ layout: default
 <div class="lead pretty-links">
   Welcome to the ___AstroDeep___ project website.
 
+  {::nomarkdown} 
   <figure class="site-profile">
-    <img src="/assets/img/ANR_logo.png">
+      <img src="{{ site.baseurl }}/assets/img/ANR_logo.png">
   </figure>
+  {:/}
   
   The project started in November 2019 gathers a [team of researchers](people/) applying Bayesian deep nets to cosmology.  
   The list of our current projects can be found [here](projects/).  
