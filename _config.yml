@@ -6,8 +6,8 @@ desc: >
   Website of the AstroDeep ANR cosmology project which aims at using 
   Baysian neural networks for weak gravitational lensing analyses.
 
-url: https://astrodeep.pages.in2p3.fr  # put your website hosting url here
-baseurl: '/website'                 # the subpath of your site, e.g. /blog
+url: https://astrodeep.net  # put your website hosting url here
+baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
