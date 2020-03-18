@@ -28,6 +28,7 @@ permalink: /people/
 
 - Sam Farens - _researcher_
 - Martin Kilbinger - _researcher_
+- François Lanusse - _researcher_
 
 ---
 
@@ -37,4 +38,4 @@ permalink: /people/
 - Amedeo Napoli - _researcher_
 - Frédéric Pennerath - _associate professor_ 
 - Chedy Raïssi - _researcher (currently detached to Ubisoft Singapor)_
-- Thomas Theobald - _grad student_
+- Claire Theobald - _grad student_
