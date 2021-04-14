@@ -6,7 +6,7 @@ desc: Meet the AstroDeep team
 permalink: /people/
 ---
 
-### AstroParticule & Cosmology (APC), Paris, France
+### AstroParticule & Cosmologie (APC), Paris, France
 
 - Bastien Arcelin - _grad student_
 - Eric Aubourg (**P.I.**) - _researcher_

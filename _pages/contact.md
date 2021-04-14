@@ -8,7 +8,7 @@ permalink: /contact/
 
 <div class="pretty-links">
 
-**Laboratoire APC**  
+**AstroParticule & Cosmologie**  
 Université de Paris  
 Bâtiment Condorcet - 512A  
 10 rue Alice Domon et Léonie Duquet  
