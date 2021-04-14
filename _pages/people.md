@@ -28,7 +28,7 @@ permalink: /people/
 
 ### CEA, Saclay, France
 
-- Sam Farens - _researcher_
+- Samuel Farens - _researcher_
 - Martin Kilbinger - _researcher_
 - François Lanusse - _researcher_
 - André Zamorano Vitorelli - _postdoc_
