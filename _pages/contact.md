@@ -10,9 +10,9 @@ permalink: /contact/
 
 **Laboratoire APC**  
 Université de Paris  
-Bâtiment Condorcet - 587A  
+Bâtiment Condorcet - 512A  
 10 rue Alice Domon et Léonie Duquet  
-75013 Paris  
+75013 Paris, France
 
 **Email:** [{{ site.email }}](mailto:{{ site.email }})  
 **Phone:** [{{ site.phone }}](tel:{{ site.phone }})
