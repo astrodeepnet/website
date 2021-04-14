@@ -11,7 +11,7 @@ permalink: /workshops/
 > March 4-6, 2020  
 > Astroparticule & Cosmologie, Paris
 
-<div class="alert">Videos from the workshop now available !</div>
+Videos from the workshop now available !
 
 ---
 
@@ -19,3 +19,5 @@ permalink: /workshops/
 
 > Summer-Autumn 2021  
 > Astroparticule & Cosmologie, Paris + remote (still TBD)
+
+Registration opening soon !
