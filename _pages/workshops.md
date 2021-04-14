@@ -6,18 +6,16 @@ desc: List of past or upcoming workshops
 permalink: /workshops/
 ---
 
-### [Bayesian deep learning for Cosmology and Gravitational Waves – March 4-6, 2020 – APC, Paris](https://astrodeep.net/workshop2020/)
+### [Bayesian deep learning for Cosmology and Gravitational Waves – 1st edition](https://astrodeep.net/workshop2020/)
 
 > March 4-6, 2020  
 > Astroparticule & Cosmologie, Paris
 
-[Workshop website](https://astrodeep.net/workshop2020/)
+<div class="alert">Videos from the workshop now available !</div>
 
 ---
 
-### Bayesian deep learning for Cosmology and Gravitational Waves – 2nd edition
+### [Bayesian deep learning for Cosmology and Gravitational Waves – 2nd edition](https://astrodeep.net/workshop2021/)
 
-> Summer-Automn 2021  
-> Astroparticules & Cosmologie, Paris + Remote
-
-[Workshop website](https://astrodeep.net/workshop2021/)
+> Summer-Autumn 2021  
+> Astroparticule & Cosmologie, Paris + remote (still TBD)
