@@ -51,6 +51,7 @@ permalink: /people/
 
 - Biswajit Biswas (APC)
 - Justine Zeghal (APC)
+
 #### 2020
 
 - Thomas Sainrat (APC)
