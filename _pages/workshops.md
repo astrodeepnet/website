@@ -17,7 +17,7 @@ Videos from the workshop now available !
 
 ### [Bayesian deep learning for Cosmology and Gravitational Waves – 2nd edition](https://astrodeep.net/workshop2021/){:target="_blank":rel="noopener noreferrer"}
 
-> Summer-Autumn 2021  
-> Astroparticule & Cosmologie, Paris + remote (still TBD)
+> January 2022  
+> Astroparticule & Cosmologie, Paris + remote (hybrid meeting)
 
 Registration opening soon !
