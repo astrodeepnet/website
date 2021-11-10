@@ -5,9 +5,8 @@ permalink: jobs/postdoc-apc-2/
 subtitle: Postdoctoral position in probabilistic deep neural networks for weak lensing
 ---
 
-- _start date_: October 1st, 2021 (flexible)
+- _start date_: Early 2022 (flexible)
 - _duration_: 24 months
-- _deadline for applications_: **May 31st, 2021**
 - _contact_: [jobs@astrodeep.net](mailto:jobs@astrodeep.net?subject=Postdoctoral position at APC)
 
 ### Description
