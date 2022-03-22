@@ -15,7 +15,7 @@ Videos from the workshop now available !
 
 ---
 
-### [Bayesian deep learning for Cosmology and Gravitational Waves – 2nd edition](https://astrodeep.net/workshop2022/){:target="_blank":rel="noopener noreferrer"}
+### [Bayesian deep learning for Cosmology and Time Domain Astrophysics – 2nd edition](https://astrodeep.net/workshop2022/){:target="_blank":rel="noopener noreferrer"}
 
 > June 20–24, 2022  
 > Astroparticule & Cosmologie, Paris + remote (hybrid meeting)
