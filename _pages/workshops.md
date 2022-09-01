@@ -20,4 +20,4 @@ Videos from the workshop now available !
 > June 20–24, 2022  
 > Astroparticule & Cosmologie, Paris + remote (hybrid meeting)
 
-Live recordings of the talks available on [our YT channel](https://www.youtube.com/playlist?list=PLywBH0_7tBJ9BG2nKodRdn6ReDaW075gM).
+Live recordings of the talks available on [our YouTube channel](https://www.youtube.com/playlist?list=PLywBH0_7tBJ9BG2nKodRdn6ReDaW075gM).
