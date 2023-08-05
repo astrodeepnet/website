@@ -15,7 +15,7 @@ permalink: /people/
 - Ken Ganga – _researcher_
 - Axel Guinot – _postdoc_
 - Maude Le Jeune – _engineer_
-- Simona Mei – _professor_
+- Marina Ricci – _researcher_
 - Cécile Roucelle – _associate professor_
 - Françoise Virieux – _engineer_
 - Justine Zeghal – _grad student_
