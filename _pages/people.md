@@ -10,17 +10,18 @@ permalink: /people/
 
 - Bastien Arcelin – _grad student (2018-2021), now engineer_
 - Eric Aubourg (**P.I.**) – _researcher_
-- Biswajit Biswas – _grad student_
+- Biswajit Biswas – _grad student (2021-2024)_
 - Alexandre Boucaud – _engineer_
 - Cécile Cavet – _engineer_
 - Ken Ganga – _researcher_
 - Axel Guinot – _postdoc_
+- Wassim Kabalan - _grad student (2023-2026)_
 - Maude Le Jeune – _engineer_
 - Marina Ricci – _researcher_
 - Cyrille Rosset – _researcher_
 - Cécile Roucelle – _associate professor_
 - Françoise Virieux – _engineer_
-- Justine Zeghal – _grad student_
+- Justine Zeghal – _grad student (2021-2024)_
 
 ---
 
