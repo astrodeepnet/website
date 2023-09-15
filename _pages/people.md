@@ -17,6 +17,7 @@ permalink: /people/
 - Axel Guinot – _postdoc_
 - Wassim Kabalan - _grad student (2023-2026)_
 - Maude Le Jeune – _engineer_
+- Camille Parisel – _engineer_
 - Marina Ricci – _researcher_
 - Cyrille Rosset – _researcher_
 - Cécile Roucelle – _associate professor_
