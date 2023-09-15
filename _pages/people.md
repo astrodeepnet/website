@@ -12,6 +12,7 @@ permalink: /people/
 - Eric Aubourg (**P.I.**) – _researcher_
 - Biswajit Biswas – _grad student_
 - Alexandre Boucaud – _engineer_
+- Cécile Cavet – _engineer_
 - Ken Ganga – _researcher_
 - Axel Guinot – _postdoc_
 - Maude Le Jeune – _engineer_
