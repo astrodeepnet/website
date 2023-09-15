@@ -17,6 +17,7 @@ permalink: /people/
 - Axel Guinot – _postdoc_
 - Maude Le Jeune – _engineer_
 - Marina Ricci – _researcher_
+- Cyrille Rosset – _researcher_
 - Cécile Roucelle – _associate professor_
 - Françoise Virieux – _engineer_
 - Justine Zeghal – _grad student_
