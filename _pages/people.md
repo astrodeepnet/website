@@ -34,7 +34,7 @@ permalink: /people/
 - Samuel Farens – _software engineer_
 - Martin Kilbinger – _researcher_
 - François Lanusse – _researcher_
-- André Zamorano Vitorelli – _postdoc (2020-2022)_
+- André Vitorelli – _postdoc (2020-2022), currently at NASA/JPL_
 
 ---
 
