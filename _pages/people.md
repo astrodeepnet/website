@@ -61,11 +61,11 @@ permalink: /people/
 
 ### Present and former interns
 
-##### 2024
+#### 2024
 
 - Alessio Spagnoletti
 
-##### 2023
+#### 2023
 
 - Gabriel Frugier
 - Tin Mai
