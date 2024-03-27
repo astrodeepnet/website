@@ -9,7 +9,7 @@ permalink: /contact/
 <div class="pretty-links">
 
 **Laboratoire AstroParticule & Cosmologie (APC)**  
-Université de Paris  
+Université Paris Cité  
 Bâtiment Condorcet - 512A  
 10 rue Alice Domon et Léonie Duquet  
 75013 Paris, France
