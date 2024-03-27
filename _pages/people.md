@@ -12,7 +12,6 @@ permalink: /people/
 - Biswajit Biswas – _grad student (2021-2024)_
 - Alexandre Boucaud – _software engineer_
 - Cécile Cavet – _software engineer_
-- Axel Guinot – _postdoc (2020-2023), now at Carnegie Mellon Univ. (USA)_
 - Wassim Kabalan - _grad student (2023-2026)_
 - Maude Le Jeune – _software engineer_
 - Camille Parisel – _software engineer (since 2023)_
@@ -53,6 +52,7 @@ permalink: /people/
 
 - Bastien Arcelin – [Golaem][golaem] – _former grad student (2018-2021)_
 - Colin Caroll – Google Cambridge (USA)
+- Axel Guinot – Carnegie Mellon Univ. – _former postdoc (2020-2023)_
 - Junpeng Lao – Google Zurich (Switzerland)
 - Brian Patton – Google Research
 - Chedy Raïssi – INRIA & Ubisoft Singapore
