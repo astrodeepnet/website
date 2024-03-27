@@ -8,20 +8,18 @@ permalink: /people/
 
 ### AstroParticule & Cosmologie (APC), Paris, France
 
-- Bastien Arcelin – _grad student (2018-2021), now engineer_
 - Eric Aubourg (**P.I.**) – _researcher_
 - Biswajit Biswas – _grad student (2021-2024)_
-- Alexandre Boucaud – _engineer_
-- Cécile Cavet – _engineer_
-- Ken Ganga – _researcher_
-- Axel Guinot – _postdoc_
+- Alexandre Boucaud – _software engineer_
+- Cécile Cavet – _software engineer_
+- Axel Guinot – _postdoc (2020-2023), now at Carnegie Mellon Univ. (USA)_
 - Wassim Kabalan - _grad student (2023-2026)_
-- Maude Le Jeune – _engineer_
-- Camille Parisel – _engineer_
-- Marina Ricci – _researcher_
+- Maude Le Jeune – _software engineer_
+- Camille Parisel – _software engineer (since 2023)_
+- Marina Ricci – _researcher (since 2023)_
 - Cyrille Rosset – _researcher_
 - Cécile Roucelle – _associate professor_
-- Françoise Virieux – _engineer_
+- Françoise Virieux – _software engineer (2018-2024), now retired_
 - Justine Zeghal – _grad student (2021-2024)_
 
 ---
@@ -34,10 +32,10 @@ permalink: /people/
 
 ### CEA, Saclay, France
 
-- Samuel Farens – _researcher_
+- Samuel Farens – _software engineer_
 - Martin Kilbinger – _researcher_
 - François Lanusse – _researcher_
-- André Zamorano Vitorelli – _postdoc_
+- André Zamorano Vitorelli – _postdoc (2020-2022)_
 
 ---
 
@@ -47,17 +45,40 @@ permalink: /people/
 - Miguel Couceiro – _professor_
 - Amedeo Napoli – _researcher_
 - Frédéric Pennerath – _associate professor_ 
-- Chedy Raïssi – _researcher (currently detached to Ubisoft Singapore)_
-- Claire Theobald – _grad student_
+- Claire Theobald – _grad student (2020-2023), now Univ. Lorraine_
 
 ---
+
+### External collaborators
+
+- Bastien Arcelin – [Golaem][golaem] – _former grad student (2018-2021)_
+- Colin Caroll – Google Cambridge (USA)
+- Junpeng Lao – Google Zurich (Switzerland)
+- Brian Patton – Google Research
+- Chedy Raïssi – INRIA & Ubisoft Singapore
+
+---
+
 ### Present and former interns
+
+##### 2024
+
+- Alessio Spagnoletti
+
+##### 2023
+
+- Gabriel Frugier
+- Tin Mai
+- Taïnam Mazouz
+- Thibault Ramel
 
 #### 2021
 
-- Biswajit Biswas (APC)
-- Justine Zeghal (APC)
+- Biswajit Biswas – _now grad student at APC_
+- Justine Zeghal – _now grad student at APC_
 
 #### 2020
 
-- Thomas Sainrat (APC)
+- Thomas Sainrat – _now grad student at IPHC (Strasbourg)_
+
+[golaem]: https://golaem.com/
