@@ -4,7 +4,7 @@
 title: AstroDeep               # used for the html title of every page
 desc: >
   Website of the AstroDeep ANR cosmology project which aims at using 
-  Baysian neural networks for weak gravitational lensing analyses.
+  Bayesian neural networks for weak gravitational lensing analyses.
 
 url: https://astrodeep.net  # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
