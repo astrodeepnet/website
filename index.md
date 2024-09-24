@@ -7,7 +7,7 @@ layout: default
 
   {::nomarkdown}
   <figure class="site-profile">
-      <img src="{{ site.baseurl }}/assets/img/logo-astrodeep.png">
+      <img src="{{ site.baseurl }}/assets/img/logo-astrodeep-zoom.png">
   </figure>
   {:/}
   
