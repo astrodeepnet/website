@@ -21,3 +21,12 @@ Videos from the workshop now available !
 > Astroparticule & Cosmologie, Paris + remote (hybrid meeting)
 
 Live recordings of the talks available on [our YouTube channel](https://www.youtube.com/playlist?list=PLywBH0_7tBJ9BG2nKodRdn6ReDaW075gM).
+
+---
+
+### [Bayesian deep learning for Cosmology and Time Domain Astrophysics – 3rd edition](https://astrodeep.net/workshop2025/){:target="_blank":rel="noopener noreferrer"}
+
+> Mai 20–23, 2025  
+> Astroparticule & Cosmologie, Paris + remote (hybrid meeting)
+
+Registration information coming soon.
