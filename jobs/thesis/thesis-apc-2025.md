@@ -2,7 +2,7 @@
 layout: page
 title: Thesis at APC
 permalink: jobs/thesis-apc-2025/
-subtitle: At the crossroad of large galaxy surveys : developing cosmic shear analysis with Bayesian neural networks for Dark Energy studies with the Vera Rubin Observatory LSST
+subtitle: At the crossroad of large galaxy surveys - developing cosmic shear analysis with Bayesian neural networks for Dark Energy studies with the Vera Rubin Observatory LSST
 ---
 
 - 3-year PhD thesis starting with a 3-month internship.
