@@ -9,57 +9,62 @@ permalink: /people/
 ### AstroParticule & Cosmologie (APC), Paris, France
 
 - Eric Aubourg (**P.I.**) – _researcher_
-- Biswajit Biswas – _grad student (2021-2024)_
-- Alexandre Boucaud – _software engineer_
+- [Alexandre Boucaud](https://aboucaud.github.io) – _software engineer_
 - Cécile Cavet – _software engineer_
-- Wassim Kabalan - _grad student (2023-2026)_
+<!-- - Kirill Grishin – _postdoc (2024-2025)_ -->
+- Wassim Kabalan – _grad student (2023-2026)_
 - Maude Le Jeune – _software engineer_
-- Camille Parisel – _software engineer (since 2023)_
-- Marina Ricci – _researcher (since 2023)_
+- Marina Ricci – _researcher_
 - Cyrille Rosset – _researcher_
 - Cécile Roucelle – _associate professor_
-- Françoise Virieux – _software engineer (2018-2024), now retired_
-- Justine Zeghal – _grad student (2021-2024)_
+- Andrea Sartirana – _software engineer_
 
 ---
 
-### Laboratoire de Physique Subatomique et de Cosmologie (LPSC), Grenoble, France
+### AIM/CEA, Saclay, France
 
-- Cyrille Doux – _researcher_
-
----
-
-### CEA, Saclay, France
-
-- Samuel Farens – _software engineer_
-- Martin Kilbinger – _researcher_
-- François Lanusse – _researcher_
-- André Vitorelli – _postdoc (2020-2022), currently at NASA/JPL_
-
----
-
-### Loria, Nancy, France
-
-- Brieuc Conan-Guez – _associate professor_
-- Miguel Couceiro – _professor_
-- Amedeo Napoli – _researcher_
-- Frédéric Pennerath – _associate professor_ 
-- Claire Theobald – _grad student (2020-2023), now Univ. Lorraine_
+- [Samuel Farens](https://sfarrens.github.io/) – _software engineer_
+- [François Lanusse](https://flanusse.net/) – _researcher_
 
 ---
 
 ### External collaborators
 
 - Bastien Arcelin – [Golaem][golaem] – _former grad student (2018-2021)_
-- Colin Caroll – Google Cambridge (USA)
-- Axel Guinot – Carnegie Mellon Univ. – _former postdoc (2020-2023)_
-- Junpeng Lao – Google Zurich (Switzerland)
-- Brian Patton – Google Research
+- Biswajit Biswas – Argonne National Lab. (USA) – _former grad student (2021-2024)_
+- [Colin Caroll](https://colindcarroll.com/) – Google Cambridge (USA)
+- Axel Guinot – Carnegie Mellon Univ. (USA) – _former postdoc (2020-2023)_
+- [Junpeng Lao](https://junpenglao.xyz/) – Google Zurich (Switzerland)
+- [Brian Patton](https://research.google/people/105050/) – Google Research (USA)
 - Chedy Raïssi – INRIA & Ubisoft Singapore
+- Justine Zeghal – MILA (Canada) – _former grad student (2021-2024)_
+
+---
+
+### Former collaborators - AstroDeep 1 (2019-2024)
+
+**APC**
+- Camille Parisel – _software engineer_
+- Françoise Virieux – _software engineer, retired in 2024_
+
+**AIM/CEA**
+- Martin Kilbinger – _researcher_
+- André Vitorelli – _postdoc (2020-2022)_
+
+**Loria, Nancy**
+- Brieuc Conan-Guez – _associate professor_
+- Miguel Couceiro – _professor_
+- Amedeo Napoli – _researcher_
+- Frédéric Pennerath – _associate professor_ 
+- Claire Theobald – _grad student (2020-2023)_
 
 ---
 
 ### Present and former interns
+
+#### 2025
+
+- Binh Nguyen Thi Yen
 
 #### 2024
 
@@ -74,8 +79,8 @@ permalink: /people/
 
 #### 2021
 
-- Biswajit Biswas – _now grad student at APC_
-- Justine Zeghal – _now grad student at APC_
+- Biswajit Biswas
+- Justine Zeghal
 
 #### 2020
 
